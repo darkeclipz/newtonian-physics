@@ -20,4 +20,4 @@
 
 ## Download
 
-[A build can be downloaded here.](https://github.com/darkeclipz/newtonian-physics/raw/master/Build/build.zip)
+[A build can be downloaded here.](https://github.com/darkeclipz/newtonian-physics/raw/master/build-20200202.zip)
